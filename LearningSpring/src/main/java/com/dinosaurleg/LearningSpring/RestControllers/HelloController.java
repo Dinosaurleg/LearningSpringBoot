@@ -1,4 +1,4 @@
-package com.dinosaurleg.RestControllers;
+package com.dinosaurleg.LearningSpring.RestControllers;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
